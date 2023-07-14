@@ -7,13 +7,13 @@ This was made for my PWS (school project required for Dutch Highschool) with a c
 https://github.com/BitTooWee/3D-Renderer-From-Scratch-Godot/assets/139354002/eb7e4f48-6ebd-4132-92ca-96aaf8e28d4d
 
 Features include:
-  *OBJ importer
-  *Colour support
-  *Flat shading
-  *culling of objects behind camera
-  *An Object list allowing for easy addition of objects
-  *Object properties such as position, rotation and size, allowing for easy game development.
+  * OBJ importer
+  * Colour support
+  * Flat shading
+  * culling of objects behind camera
+  * An Object list allowing for easy addition of objects
+  * Object properties such as position, rotation and size, allowing for easy game development.
 
 Limitations:
-  *Only supports one light source
-  *Clipping issues
+  * Only supports one light source
+  * Clipping issues
